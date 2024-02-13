@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  background: #b8c6ec;
+  color: #0f141e; 
+}
+.info-text h1 {
+  font-style: italic;
+  font-weight: bold;
+  color: #173b85;
+}
+
+.card p {
+  font-style:  normal;
+  font-weight: normal;
+  color: #363432;
+}
+
+.card {
+  border-radius: 20px;
+  }
+
+.bg-blue {
+  background: #99add4;
+  padding-left: 15px;
+}
+
+.bg-red {
+  background: #d499a3;
+  padding-left: 15px;
+}
+
+.bg-yellow {
+  background: #d0d499;
+  padding-left: 15px;
+}
+
+.bg-green {
+  background: #aad499;
+  padding-left: 15px;
+}
+
+.bg-orange {
+  background: #d4c499;
+  padding-left: 15px;
+}
